@@ -1,5 +1,5 @@
 ### Hi there! I'm Pascal from Brussels Belgium 👋
-![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/0560f0dd-d021-4e6e-a260-a905cba14c5b)
+
 
 <!--
 **neojudgment/neojudgment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
